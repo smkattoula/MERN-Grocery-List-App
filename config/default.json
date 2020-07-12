@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://smkattoula:SHka9092@shoppinglist.lzvdi.mongodb.net/<dbname>?retryWrites=true&w=majority",
+    "jwtSecret": "7;9zpQ4vJ:$}xH?gV`SV9}/_p9aD+f5@^mQ[x7kd3FxS.Tr~"
+}
